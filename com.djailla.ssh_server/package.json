@@ -1,0 +1,8 @@
+{
+    "type": "application",
+    "id": "com.djailla.ssh_server",
+    "version": "1.0",
+    "depends": [
+        "org.debian.wheezy-lamp-1.2"
+    ],
+}

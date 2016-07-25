@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "SSH Server"
+    },
+    "description_short": {
+        "en": "Enable SSH Server for this NAS OS App."
+    },
+    "supported_languages": [
+        "en"
+    ],
+    "publisher_name": "Djailla",
+    "publisher_contact": "bastien.vallet@gmail.com",
+    "website_url": "https://github.com/Djailla/nas-os-ssh_server/"
+}

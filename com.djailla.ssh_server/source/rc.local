@@ -1,0 +1,13 @@
+#!/bin/sh -e
+#
+# rc.local
+#
+
+case $1 in
+  start)
+    service ssh start
+    ;;
+  stop)
+    service ssh stop
+    ;;
+esac

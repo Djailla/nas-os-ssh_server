@@ -1,0 +1,5 @@
+#!/bin/sh
+
+useradd ssh_app -p $(echo "ssh_app" | openssl passwd -1 -stdin) -s "/bin/bash" -m
+
+exit 0
